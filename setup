@@ -7,16 +7,18 @@ center() {
 grn="\e[92m"
 cod="\e[93m"
 echo -e '\e[92m
-               ╦╔═╗  ╦ ╦╔═╗╔═╗╦╔═
-               ║║ ╦──╠═╣╠═╣║  ╠╩╗
-               ╩╚═╝  ╩ ╩╩ ╩╚═╝╩ ╩'
+                
+                
+                     |ỉ̴̡̢͉̗̜͙̼̾̀̈ṅ̸̙̫̝͕̭̤͖̃̎s̵͎̻͈̓̑̌͒t̵͓̞̓͌̌͗̈͝a̶̗̞̻̟̰͍̿g̶͈̭̑́̅̉́́̍r̴̡̤͙̝̲̓́͑͋͒̇͗̂̍̚a̶̢̺̭̣̲͇͕͕̍͋̆͌̕͝m̶̢̜̥̪͓͚̳͚̩̯̈̓͒͋͊͛̽̿͋̂-̸̛͔͙̪̙͍̜͓̝͐͒̇̋̃̚h̵̜̝͍̖̩̜̪̟̺͆̂͐͋͑̓͌a̷̱̗̪̠̎͘c̶̳̫̰͙͛̔̽͐̉̈́͗̀͠k̷̡͖̠̠͗̓̄͐̈́͘̚
+               
+               
 echo -e "\e[92m"
 center "SETUP PROCESS"
 echo -e "
        $grn-----------------------------------$grn
-      |$grn FOLLLOW:$cod github.com/noob-hackers $grn |$grn
-      |$grn SUBSCRIBE:$cod Noob Hackers          $grn |$grn
-      |$grn CHAT:$cod wa.me/+919113948054        $grn |$grn
+      |$grn FOLLLOW:$cod github.com/shopeebj  $grn |$grn
+      |$grn SUBSCRIBE:$cod shopeebjm          $grn |$grn
+      |$grn CHAT:$cod      shopeebjm          $grn |$grn
        $grn-----------------------------------$grn
 "
 center "INSTALLATION"
@@ -48,9 +50,9 @@ rm torrc >/dev/null 2>&1
 cd $HOME/ighack >/dev/null 2>&1
 mv torrc /data/data/com.termux/files/usr/etc/tor >/dev/null 2>&1
 center "FINALIZING ALL PROCESS"
-echo -e "\e[91m              SUBSCRIBE\e[93m NOOB HACKERS\e[92m"
+echo -e "\e[91m              SUBSCRIBE\e[93m shopeebjm\e[92m"
 center "[X]COMPLETED SUCCESSFULLY[X]"
-am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel
+am start -a android.intent.action.VIEW -d https://id.shp.ee/2z8nkbkf?smtt=0.0.9
 rm setup
 cd $HOME/ighack
 bash ighack.sh
