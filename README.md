@@ -1,10 +1,10 @@
 <p align="center">
-<a href="https://id.shp.ee/2z8nkbkf?smtt=0.0.9"><img title="Made in Banjarmasin" src="https://img.shields.io/badge/Shopee%20IN-Banjarmasin-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://id.shp.ee/2z8nkbkf?smtt=0.0.9"><img title="Made in Banjarmasin" src="https://img.shields.io/badge/Shopee%20-Banjarmasin-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://instagram.com/shopee_banjarmasin"><img title="Made in Banjarmasin" src="https://img.shields.io/badge/Tool-Ighack-green.svg"></a>
-<a href="https://instagram.com/shopee_banjarmasin"><img title="Version" src="https://img.shields.io/badge/Version-3.1-green.svg?style=flat-square"></a>
-<a href="https://instagram.com/shopee_banjarmasin"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://tiktok.com/@shopee.bjm"><img title="Made in Banjarmasin" src="https://img.shields.io/badge/Tool-Ighack-green.svg"></a>
+<a href="https://x.com/kiplymacho"><img title="Version" src="https://img.shields.io/badge/Version-3.1-green.svg?style=flat-square"></a>
+<a href="https://facebook.com/shopee.bjm"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
 <a href="https://instagram.com/shopee_banjarmasin"><img title="instagram-hack" src="https://user-images.githubusercontent.com/49580304/96563916-5f0c9380-1277-11eb-814f-88de938d67a7.jpg"></a>
