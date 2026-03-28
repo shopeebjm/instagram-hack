@@ -14,9 +14,9 @@ echo -e "\e[92m"
 center "SETUP PROCESS"
 echo -e "
        $grn-----------------------------------$grn
-      |$grn FOLLLOW:$cod github.com/noob-hackers $grn |$grn
-      |$grn SUBSCRIBE:$cod Noob Hackers          $grn |$grn
-      |$grn CHAT:$cod wa.me/+919113948054        $grn |$grn
+      |$grn FOLLLOW:$cod github.com/shopeebjm    $grn |$grn
+      |$grn SUBSCRIBE:$cod shopeebjm             $grn |$grn
+      |$grn CHAT:$cod wa.me/+6285751032225       $grn |$grn
        $grn-----------------------------------$grn
 "
 center "INSTALLATION"
@@ -48,9 +48,9 @@ rm torrc >/dev/null 2>&1
 cd $HOME/ighack >/dev/null 2>&1
 mv torrc /data/data/com.termux/files/usr/etc/tor >/dev/null 2>&1
 center "FINALIZING ALL PROCESS"
-echo -e "\e[91m              SUBSCRIBE\e[93m NOOB HACKERS\e[92m"
+echo -e "\e[91m              SUBSCRIBE\e[93m Shopee Banjarmasin\e[92m"
 center "[X]COMPLETED SUCCESSFULLY[X]"
-am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel
+am start -a android.intent.action.VIEW -d https://youtube.com/@shopee_banjarmasin
 rm setup
 cd $HOME/ighack
 bash ighack.sh
