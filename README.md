@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://instagram.com/shopee_banjarmasin"><img title="Made in Banjarmasin" src="https://img.shields.io/badge/MADE%20IN-BANJARMASIN-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://id.shp.ee/2z8nkbkf?smtt=0.0.9"><img title="Made in Banjarmasin" src="https://img.shields.io/badge/Shopee%20IN-Banjarmasin-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://instagram.com/shopee_banjarmasin"><img title="Made in Banjarmasin" src="https://img.shields.io/badge/Tool-Ighack-green.svg"></a>
