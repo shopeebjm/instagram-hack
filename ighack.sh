@@ -1,5 +1,5 @@
 #bin/bash
-#script By Noob Hackers
+#script By shopeebjm
 #The real creator of core files is not us so the credits 
 #Goes to real author
 #colours
@@ -83,9 +83,9 @@ echo -e '\e[91m
     ╚═╝ ╚═════╝       \e[92m╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝\e[91m
 \e[0m'
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By shopeebjm << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m shopeebjm \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 baner1(){
@@ -116,7 +116,7 @@ echo -e '\e[91m
 printf "\n"
 printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m @shopee_banjarmasin \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 echo 
