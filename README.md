@@ -104,8 +104,8 @@ __EXIT__ :
 
 ## CONNECT WITH US :
 
-[![Messenger](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=messenger)](https://fb.me/shopeebjm)
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+[![Messenger](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=messenger)](https://tiktok.com/@shopee.bjm)
+<a href="https://shopee.co.id/infinixnote40bjm"><img title="Github" src="https://img.shields.io/badge/shopeebjm-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://instagram.com/shopee_banjarmasin)
 [![Instagram](https://img.shields.io/badge/Website-Visit-yellow?style=for-the-badge&logo=blogger)](https://linktr.ee/kiplymacho)
 [![Instagram](https://img.shields.io/badge/Facebook-Like-red?style=for-the-badge&logo=facebook)](https://facebook.com/shopee.bjm)
