@@ -105,13 +105,13 @@ __EXIT__ :
 ## CONNECT WITH US :
 
 [![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/shopee.bjm)
-<a href="https://github.com/shopeebjm"><img title="Github" src="https://img.shields.io/badge/shopeebjm-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://tiktok.com/shopee.bjm"><img title="Github" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=TikTok"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://instagram.com/shopee_banjarmasin)
 [![Instagram](https://img.shields.io/badge/Website-Visit-yellow?style=for-the-badge&logo=blogger)](https://kiplymacho.blogspot.com)
 [![Instagram](https://img.shields.io/badge/Facebook-Like-red?style=for-the-badge&logo=facebook)](https://facebook.com/shopee.bjm)
-[![Instagram](https://img.shields.io/badge/Telegram-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/@shopeebjm)
+[![Instagram](https://img.shields.io/badge/Telegram-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/shopee_bjm)
 [![Instagram](https://img.shields.io/badge/WhatsApp-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285751032225)
-[![Instagram](https://img.shields.io/badge/Forum-Diskusi-blue?style=for-the-badge&logo=forum)](https://t.me/shopee_bjm)
+[![Instagram](https://img.shields.io/badge/Forum-Diskusi-blue?style=for-the-badge&logo=forum)](https://t.me/shopeebjm)
 <a href="https://youtube.com/@shopee_banjarmasin"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Shopee Banjarmasin-red?style=for-the-badge&logo=Youtube"></a>
 
 ## WARNING : 
