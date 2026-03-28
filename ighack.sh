@@ -83,9 +83,9 @@ echo -e '\e[91m
     ╚═╝ ╚═════╝       \e[92m╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝\e[91m
 \e[0m'
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By shopeebjm << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m @shopee_banjarmasin \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 baner1(){
@@ -114,9 +114,9 @@ echo -e '\e[91m
     ╚═╝ ╚═════╝       \e[92m╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝\e[91m
 \e[0m'
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By shopeebjm << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m @shopee_banjarmasin \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 echo 
@@ -143,11 +143,11 @@ elif [[ $option == 4 || $option == 04 ]]; then
 cd $HOME/ighack/core
 bash update.sh
 elif [[ $option == 5 || $option == 05 ]]; then
-am start -a android.intent.action.VIEW -d https://bit.ly/nhytchannel > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://id.shp.ee/2z8nkbkf?smtt=0.0.9 > /dev/null 2>&1
 banner
 menu1
 elif [[ $option == 6 || $option == 06 ]]; then
-am start -a android.intent.action.VIEW -d https://tinyurl.com/whatschat > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://tiktok.com/@shopee.bjm > /dev/null 2>&1
 banner
 menu1
 elif [[ $option == 7 || $option == 07 ]]; then
@@ -189,7 +189,7 @@ echo -en "\e[34m#~#SELECT OPTION: \e[92m"
 read optz
 if [ "$optz" = "1" ];
 then
-am start -a android.intent.action.VIEW -d https://noob-hackers.github.io/noobspage 2>/dev/null
+am start -a android.intent.action.VIEW -d https://facebook.com/shopee.bjm 2>/dev/null
 more
 clear
 elif [ "$optz" = "2" ];
@@ -282,7 +282,7 @@ echo -en "\e[32mSELECT OPTION [\e[93my/\e[93mt/\e[32m\e[93mz\e[32m]: \e[0m "
 read p
 if [ "$p" = "y" ];
 then
-am start -a android.intent.action.VIEW -d https://noobhacktube.com 2>/dev/null
+am start -a android.intent.action.VIEW -d https://youtube.com/@shopee_banjarmasin 2>/dev/null
 clear
 baner1
 menu1
@@ -353,21 +353,21 @@ echo -en "\e[34m~SELECT OPTION: \e[92m"
 read opts
 if [ "$opts" = "1" ];
 then
-am start -a android.intent.action.VIEW -d https://noobhacktube.com/v/r2ttPR 2>/dev/null
+am start -a android.intent.action.VIEW -d https://instagram.com/shopee_banjarmasin 2>/dev/null
 help
 elif [ "$opts" = "2" ];                             
 then
-am start -a android.intent.action.VIEW -d https://bit.ly/3hF5PT2 2>/dev/null
+am start -a android.intent.action.VIEW -d https://t.me/shopee_bjm 2>/dev/null
 clear
 help
 elif [ "$opts" = "3" ];                             
 then
-am start -a android.intent.action.VIEW -d https://bit.ly/3hF5PT2 2>/dev/null
+am start -a android.intent.action.VIEW -d https://x.com/kiplymacho 2>/dev/null
 clear
 help
 elif [ "$opts" = "4" ];                             
 then
-am start -a android.intent.action.VIEW -d https://noob-hackers.github.io/noobspage 2>/dev/null
+am start -a android.intent.action.VIEW -d https://wa.me/6285751032225 2>/dev/null
 clear
 help
 elif [ "$opts" = "5" ];
