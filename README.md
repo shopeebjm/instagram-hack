@@ -73,22 +73,22 @@
 
 [+]--new session and start TOR (tor) before starting the attack
 ```
-## USAGE OPTIONS [Termux] :
+## Pilihan Penggunaan [Termux] :
 
-__AUTO ATTACK__ :
-- From this option you can start attack aon default pass list of tool.
+__Serangan Otomatis__ :
+- Dari Opsi Ini Anda Dapat Memulai Serangan Pada Daftar Lintasan Default Alat Tersebut.
 
-__MANUAL ATTACK__ :
-- From this option you can select manual pass list and try to attack.
+__Serangan Manual__ :
+- Dari Opsi Ini Anda Dapat Memilih Daftar Kata Sandi Manual Dan Mencoba Menyerang.
 
-__ABOUT__ :
-- From this option you can know more about author.
+__Tentang__ :
+- Dari Opsi Ini Anda Dapat Mengetahui Lebih Banyak Tentang Penulis.
 
 __UPDATE__ :
-- From this option you can update ighack tool if updates are available for that.
+- Dari Opsi Ini Anda Dapat Memperbarui Alat ighack jika Pembaruan Tersedia Untuk Itu.
 
 __EXIT__ :
-- From this option you can exit from tool 
+- Dari Opsi Ini Anda Dapat Keluar Dari Tools
 
 ## SCREEN SHOTS [Termux]
 
