@@ -22,9 +22,9 @@
 <a href="https://github.com/shopeebjm"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-## ABOUT TOOL :
+## Tentang Tools :
 
-Ighack is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and. This tool works on both rooted Android device and Non-rooted Android device.
+- Ighack adalah skrip berbasis bash yang secara resmi dibuat untuk menguji kekuatan kata sandi akun Instagram dari Termux dengan serangan brute force. Alat ini berfungsi pada perangkat Android yang sudah di-root maupun yang belum di-root.
 
 <p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="shopeebjm" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
