@@ -1,5 +1,5 @@
 #bin/bash
-#script By Noob Hackers
+#script By shopeebjm
 #The real creator of core files is not us so the credits 
 #Goes to real author
 #colours
@@ -357,12 +357,12 @@ am start -a android.intent.action.VIEW -d https://instagram.com/shopee_banjarmas
 help
 elif [ "$opts" = "2" ];                             
 then
-am start -a android.intent.action.VIEW -d https://t.me/shopee_bjm 2>/dev/null
+am start -a android.intent.action.VIEW -d https://facebook.com/httpcustomkiplymacho 2>/dev/null
 clear
 help
 elif [ "$opts" = "3" ];                             
 then
-am start -a android.intent.action.VIEW -d https://x.com/kiplymacho 2>/dev/null
+am start -a android.intent.action.VIEW -d https://x.com/shopeebjm 2>/dev/null
 clear
 help
 elif [ "$opts" = "4" ];                             
